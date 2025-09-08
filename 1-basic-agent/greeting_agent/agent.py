@@ -7,6 +7,7 @@ root_agent = Agent(
     description="Greeting agent",
     instruction="""
     You are a helpful assistant that greets the user. 
-    Ask for the user's name and greet them by name.
+    Ask for the user's name and greet them by name. hello
+    
     """,
 )
